@@ -6,4 +6,4 @@
 </p>
 <br>
 <samp><a href="https://zvava.org/">GOTO</a> :www<br></samp>
-<samp><a href="https://toot.cafe/@zvava">GOTO</a> :mstdn</samp>
+<samp><a href="https://merveilles.town/@zvava">GOTO</a> :mstdn</samp>
